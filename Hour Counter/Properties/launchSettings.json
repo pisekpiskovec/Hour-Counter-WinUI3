@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Hour Counter (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Hour Counter (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
